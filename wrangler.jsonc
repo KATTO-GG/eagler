@@ -1,0 +1,7 @@
+{
+  "name": "eagler",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-04",
+  "r2_buckets": [{ "binding": "BUCKET", "bucket_name": "eagler" }],
+  "routes": [{ "pattern": "games.spenc.vip", "custom_domain": true }]
+}
